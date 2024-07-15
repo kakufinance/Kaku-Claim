@@ -1,0 +1,26 @@
+.claim-btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 2px solid white;
+    cursor: pointer;
+    font-size: 18px;
+    display: flex;
+    margin: 20px 0px;
+    text-transform: uppercase;
+    width: 100%;
+    justify-content: center;
+    background: #5c728d !important;
+  color: #fff ;
+    
+}
+/* 
+.claim-btn:hover{
+    background-color: gray;
+} */
+
+
+.connect-wallet-btn{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+}
